@@ -45,7 +45,6 @@ Contains the running time for each experiment
 ## Author
 
 * **Nikolaos Antoniadis** - [nikosantoniadis](https://github.com/nikosantoniadis) 
-![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)(https://orcid.org/0000-0001-9266-3247)
 
 ## License
 
