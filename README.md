@@ -31,7 +31,16 @@ The layout of the (obj1.csv),(obj2.csv), and (obj3.csv) is on the following form
 * *Scenario*: scenario number
 * *Average*: the arithmetic mean of the experiments 
 * *CI-L*: Lower bound of the 99% confidence interval 
-* *CI-H*: Upper bound of the 99% confidence inerval
+* *CI-H*: Upper bound of the 99% confidence interval
+
+[timings.csv](timings.csv)
+
+Contains the running time for each experiment
+
+* *ID*: experiment number
+* *Scenario*: scenario number
+* *Time*: running time of the experiment (in msec) 
+
 
 ## Author
 
