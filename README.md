@@ -44,11 +44,12 @@ Contains the running time for each experiment
 
 ## Author
 
-* **Nikolaos Antoniadis** - [nikosantoniadis](https://github.com/nikosantoniadis)
+* **Nikolaos Antoniadis** - [nikosantoniadis](https://github.com/nikosantoniadis) 
+![ORCID iD icon](https://orcid.org/sites/default/files/images/orcid_16x16.png)(https://orcid.org/0000-0001-9266-3247)
 
 ## License
 
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
+![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 
