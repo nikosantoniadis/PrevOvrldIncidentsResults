@@ -1,5 +1,5 @@
-# PrevOvrldIncidentsResults
-Results of the paper *Preventing Overloading Incidents on Smart Grids: A Multiobjective Combinatorial Optimization Approach* that will be presented on the 3rd International Conference on Optimization and Learning (OLA2020), Cadiz, Spain, 17-19 February 2020. 
+# Preventing Overloading Incidents on Smart Grids: A Multiobjective Combinatorial Optimization Approach
+Results and the presentation of the paper *Preventing Overloading Incidents on Smart Grids: A Multiobjective Combinatorial Optimization Approach* that will be presented on the 3rd International Conference on Optimization and Learning (OLA2020), Cadiz, Spain, 17-19 February 2020. 
 
 ## Presentation
 
