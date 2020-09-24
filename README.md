@@ -1,5 +1,7 @@
 # Preventing Overloading Incidents on Smart Grids: A Multiobjective Combinatorial Optimization Approach
-Results and the presentation of the paper *Preventing Overloading Incidents on Smart Grids: A Multiobjective Combinatorial Optimization Approach* that will be presented on the 3rd International Conference on Optimization and Learning (OLA2020), Cadiz, Spain, 17-19 February 2020. 
+Results and the presentation of the paper *Preventing Overloading Incidents on Smart Grids: A Multiobjective Combinatorial Optimization Approach* that presented on the 3rd International Conference on Optimization and Learning (OLA2020), Cadiz, Spain, 17-19 February 2020. 
+Please cite this paper as:
+Antoniadis N., Cordy M., Sifaleras A., Le Traon Y. (2020) Preventing Overloading Incidents on Smart Grids: A Multiobjective Combinatorial Optimization Approach. In: Dorronsoro B., Ruiz P., de la Torre J., Urda D., Talbi EG. (eds) Optimization and Learning. OLA 2020. Communications in Computer and Information Science, vol 1173. Springer, Cham. https://doi.org/10.1007/978-3-030-41913-4_22
 
 ## Presentation
 
